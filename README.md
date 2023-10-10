@@ -4,3 +4,4 @@
 
 ![wow](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hakuro-siro&theme=zenburn)
 
+![wow](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakuro-siro&theme=zenburn)
